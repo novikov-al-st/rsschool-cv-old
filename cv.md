@@ -33,6 +33,8 @@ I started learning JS/Frontend in RS School. My aim is to be a web developer.
 
 ## Code Example
 
+Description: Make a simple function called **greet** that returns the most-famous "hello world!".
+
 ```javascript
 // Write a function "greet" that returns "hello world!"
 function greet()
