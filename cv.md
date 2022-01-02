@@ -43,13 +43,16 @@ function greet()
 
 
 
+## Courses and education
+
+- Dnipropetrovsk National University. Technical information security systems.
+- American English Center
 
 
 
+## Languages
 
-1. Навыки (языки программирования, фреймворки, методологии, системы контроля версий и инструменты разработки, которыми вы владеете)
-2. Примеры кода
-3. Опыт работы. Junior Dev может перечислить учебные проекты с указанием использованных навыков и ссылками на исходный код.
-4. Образование (включая пройденные курсы и тренинги)
-5. Английский язык (уровень английского языка, если была языковая практика, расскажите о ней)
+- English - A2
+- Russian - fluent
+- Ukrainian - fluent
 
