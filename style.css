@@ -1,0 +1,108 @@
+h2 {
+    color: rgb(6, 148, 89);
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+header {
+    background-color: #b3f8b9;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    min-height: 8vh;
+    flex-wrap: wrap;
+    font-size: 3em;
+}
+
+footer {
+    background-color: #b3f8b9;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    min-height: 12vh;
+    flex-wrap: wrap;
+    font-size: 3em;
+}
+
+.rs-scholl-section,
+.github-author-link,
+.creation-year,
+.rs-school-logo,
+.course-link {
+    align-items: stretch;
+    padding: 1em;
+    margin: 1em;
+    min-width: 0;
+    min-height: 0;
+}
+
+.school-image {
+    min-width: 7em;
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    min-height: 80vh;
+    flex-wrap: wrap;
+    background-color: aliceblue;
+}
+
+.main-section {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    min-height: 15vh;
+    border-bottom: solid 4px rgb(6, 148, 89);
+    flex-wrap: wrap;
+}
+
+.name-attributes {
+    margin: auto;
+    font-size: 4em;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(6, 148, 89);
+    padding-left: 2em;
+}
+
+.avatar {
+    min-height: 15vh;
+    margin: 1em;
+    padding: 1em;
+}
+
+.main-body {
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+    min-height: 65vh;
+    flex-wrap: wrap;
+}
+
+.left-section {
+    min-width: 30vw;
+    border-right: solid 4px rgb(6, 148, 89);
+}
+
+.position,
+.contacts {
+    padding: 1em;
+    margin: auto;
+    border-bottom: solid 4px rgb(6, 148, 89);
+}
+
+.skills-section,
+.about-section,
+.code-examples,
+.education-section,
+.languages-section,
+.education-projects-section {
+    padding: 1em;
+    margin: auto;
+}
