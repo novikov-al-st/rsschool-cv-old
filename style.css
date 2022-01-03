@@ -1,0 +1,20 @@
+.avatar {
+    max-height: 200px;
+    margin: 1em;
+    padding: 1em;
+}
+
+.main-section {
+    display: flex;
+    justify-content: flex-start;
+    grid-auto-rows: min-content;
+}
+
+.contact-section {
+    flex-grow: 1;
+}
+
+.contacts {
+    margin: 1em;
+    padding: 1em;
+}
